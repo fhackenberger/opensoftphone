@@ -17,6 +17,10 @@ public class Messages extends NLS {
 	public static String Activator_5;
 	public static String AnswerAction_0;
 	public static String AnswerAction_1;
+	public static String ApplicationWorkbenchWindowAdvisor_1;
+	public static String ApplicationWorkbenchWindowAdvisor_2;
+	public static String ApplicationWorkbenchWindowAdvisor_3;
+	public static String ApplicationWorkbenchWindowAdvisor_4;
 	public static String BackspaceDestinationAction_0;
 	public static String BackspaceDestinationAction_1;
 	public static String CallAction_0;

@@ -70,7 +70,7 @@ public class CallHistory {
 		columnHeaderObjects = new ArrayList<ColumnHeaderObject>();
 
 		ColumnHeaderObject colHeadObj = new ColumnHeaderObject(COLUMN_TYPE);
-		colHeadObj.columnWeight = 1;
+		colHeadObj.columnWeight = 2;
 		colHeadObj.title = ""; //$NON-NLS-1$
 		colHeadObj.columnStyle = SWT.CENTER;
 		columnHeaderObjects.add(colHeadObj);
@@ -88,7 +88,7 @@ public class CallHistory {
 		columnHeaderObjects.add(colHeadObj);
 
 		colHeadObj = new ColumnHeaderObject(COLUMN_DATE);
-		colHeadObj.columnWeight = 1;
+		colHeadObj.columnWeight = 2;
 		colHeadObj.title = ""; //$NON-NLS-1$
 		colHeadObj.columnStyle = SWT.LEFT;
 		columnHeaderObjects.add(colHeadObj);
