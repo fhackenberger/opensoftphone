@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pde version="3.4"?>
+
+<product name="softPhone" id="org.acoveo.callcenter.softPhone.product" application="org.acoveo.callcenter.softPhone.application" useFeatures="true">
+
+   <configIni use="default">
+      <linux>/org.acoveo.callcenter.softPhoneProduct/config.ini</linux>
+      <macosx>/org.acoveo.callcenter.softPhoneProduct/config.ini</macosx>
+      <solaris>/org.acoveo.callcenter.softPhoneProduct/config.ini</solaris>
+      <win32>/org.acoveo.callcenter.softPhoneProduct/config.ini</win32>
+   </configIni>
+
+   <launcherArgs>
+      <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts</vmArgsMac>
+   </launcherArgs>
+
+   <windowImages/>
+
+   <launcher name="softPhone">
+      <solaris/>
+      <win useIco="false">
+         <bmp/>
+      </win>
+   </launcher>
+
+   <vm>
+   </vm>
+
+   <plugins>
+   </plugins>
+
+   <features>
+      <feature id="org.acoveo.callcenter.softPhoneFeature" version="1.0.0"/>
+   </features>
+
+</product>
