@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/scalable"
+   sodipodi:docname="conference_off.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/16x16/conference_off.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective8" />
+    <inkscape:perspective
+       id="perspective3249"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 8 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="33.628648"
+     inkscape:cx="5.3396207"
+     inkscape:cy="6.4570927"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="16px"
+     height="16px"
+     inkscape:window-width="1390"
+     inkscape:window-height="971"
+     inkscape:window-x="1400"
+     inkscape:window-y="25"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e8e8e8;stroke-width:0.89999998000000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3187"
+       sodipodi:sides="3"
+       sodipodi:cx="2.973655"
+       sodipodi:cy="2.2914503"
+       sodipodi:r1="6.9567008"
+       sodipodi:r2="3.4783504"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 8.9983346,5.7698007 L 2.9736551,5.7698007 L -3.0510247,5.7698006 L -0.038684872,0.55227514 L 2.973655,-4.6652505 L 5.9859947,0.55227498 L 8.9983346,5.7698007 z"
+       transform="matrix(0.8913327,0,0,0.8913327,5.3494841,7.8051047)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#cf2200;fill-opacity:1;stroke:none;stroke-width:0.89999998000000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3181"
+       sodipodi:cx="5.3823156"
+       sodipodi:cy="5.8895726"
+       sodipodi:rx="1.9328758"
+       sodipodi:ry="1.9328758"
+       d="M 7.3151914,5.8895726 A 1.9328758,1.9328758 0 1 1 3.4494399,5.8895726 A 1.9328758,1.9328758 0 1 1 7.3151914,5.8895726 z"
+       transform="matrix(1.3374233,0,0,1.3374233,0.8015657,-4.5466291)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3181"
+       id="use3183"
+       transform="translate(5.3993251,9.341291)"
+       width="16"
+       height="16" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3181"
+       id="use3185"
+       transform="translate(-5.3257173,9.341291)"
+       width="16"
+       height="16" />
+  </g>
+</svg>

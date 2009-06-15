@@ -1,0 +1,3 @@
+This plugin contains aa modified version of the 5.8 testng distribution. Compiled by Florian Hackenberger.
+See the testng.patch file for modifications relative to the stock 5.8 retrieved from
+http://testng.googlecode.com/svn/tags/5.8 via svn and built with ant using eclipse

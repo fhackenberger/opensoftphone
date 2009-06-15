@@ -1,0 +1,125 @@
+package org.acoveo.callcenter.nls;
+
+import org.eclipse.osgi.util.NLS;
+
+public class Messages extends NLS {
+	private static final String BUNDLE_NAME = "org.acoveo.callcenter.nls.messages"; //$NON-NLS-1$
+	public static String AccountPreferencePage_0;
+	public static String AccountPreferencePage_10;
+	public static String AccountPreferencePage_11;
+	public static String AccountPreferencePage_12;
+	public static String AccountPreferencePage_26;
+	public static String AccountPreferencePage_27;
+	public static String AccountPreferencePage_28;
+	public static String AccountPreferencePage_8;
+	public static String AccountPreferencePage_9;
+	public static String Activator_4;
+	public static String Activator_5;
+	public static String AnswerAction_0;
+	public static String AnswerAction_1;
+	public static String BackspaceDestinationAction_0;
+	public static String BackspaceDestinationAction_1;
+	public static String CallAction_0;
+	public static String CallAction_1;
+	public static String CallHistory_1;
+	public static String CallHistory_2;
+	public static String CallHistory_28;
+	public static String CallHistory_29;
+	public static String CallHistoryAction_0;
+	public static String CallHistoryAction_1;
+	public static String ClearDestinationAction_1;
+	public static String ClearHistoryAction_0;
+	public static String ColumnShowHideSupport_0;
+	public static String ColumnShowHideSupport_1;
+	public static String ColumnShowHideSupport_4;
+	public static String ColumnShowHideSupport_5;
+	public static String ConsultationHoldAction_0;
+	public static String ConsultationHoldAction_1;
+	public static String DialAction_1;
+	public static String FilterInternalNrsAction_0;
+	public static String FilterInternalNrsAction_1;
+	public static String HangupAction_0;
+	public static String InteractiveSplashHandler_0;
+	public static String InteractiveSplashHandler_1;
+	public static String InteractiveSplashHandler_2;
+	public static String InteractiveSplashHandler_3;
+	public static String InteractiveSplashHandler_4;
+	public static String InteractiveSplashHandler_5;
+	public static String LoginDialog_1;
+	public static String LoginDialog_2;
+	public static String PickupAction_0;
+	public static String PickupAction_3;
+	public static String PickupAction_4;
+	public static String SettingsAction_0;
+	public static String ShortcutButtonAction_0;
+	public static String ShortcutButtonAction_1;
+	public static String ShortcutButtonAction_2;
+	public static String ShortcutButtonAction_3;
+	public static String ShortcutButtonAction_6;
+	public static String ShortcutButtonAction_7;
+	public static String ShortcutButtonsPreferencePage_1;
+	public static String ShortcutButtonsPreferencePage_11;
+	public static String ShortcutButtonsPreferencePage_3;
+	public static String ShortcutButtonsPreferencePage_5;
+	public static String ShortcutButtonsPreferencePage_7;
+	public static String ShortcutButtonsPreferencePage_9;
+	public static String ShowHideTimeAction_0;
+	public static String ShowHideTimeAction_1;
+	public static String SoftPhoneNotificationPopupDialog_0;
+	public static String SoftPhoneNotificationPopupDialog_1;
+	public static String SoftPhonePreferencePage_0;
+	public static String SoftPhonePreferencePage_1;
+	public static String SoftPhonePreferencePage_24;
+	public static String SoftPhonePreferencePage_25;
+	public static String SoftPhonePreferencePage_26;
+	public static String SoftPhonePreferencePage_27;
+	public static String SoftPhonePreferencePage_28;
+	public static String SoftPhonePreferencePage_29;
+	public static String SoftPhonePreferencePage_30;
+	public static String SoftPhonePreferencePage_31;
+	public static String SoftPhonePreferencePage_32;
+	public static String SoftPhonePreferencePage_33;
+	public static String SoftPhonePreferencePage_34;
+	public static String SoftPhonePreferencePage_35;
+	public static String SoftPhonePreferencePage_36;
+	public static String SoftPhonePreferencePage_37;
+	public static String SoftPhonePreferencePage_38;
+	public static String SoftPhonePreferencePage_39;
+	public static String SoftPhonePreferencePage_40;
+	public static String SoftPhonePreferencePage_41;
+	public static String SoftPhonePreferencePage_42;
+	public static String SoftPhonePreferencePage_44;
+	public static String SoftPhonePreferencePage_45;
+	public static String SoftPhoneViewPart_0;
+	public static String SoftPhoneViewPart_1;
+	public static String SoftPhoneViewPart_10;
+	public static String SoftPhoneViewPart_11;
+	public static String SoftPhoneViewPart_12;
+	public static String SoftPhoneViewPart_13;
+	public static String SoftPhoneViewPart_14;
+	public static String SoftPhoneViewPart_15;
+	public static String SoftPhoneViewPart_2;
+	public static String SoftPhoneViewPart_29;
+	public static String SoftPhoneViewPart_3;
+	public static String SoftPhoneViewPart_33;
+	public static String SoftPhoneViewPart_35;
+	public static String SoftPhoneViewPart_48;
+	public static String SoftPhoneViewPart_5;
+	public static String SoftPhoneViewPart_6;
+	public static String SoftPhoneViewPart_9;
+	public static String TransferAction_0;
+	public static String TransferAction_1;
+	public static String TransferAction_2;
+	public static String TransferDialog_0;
+	public static String TransferDialog_1;
+	public static String TransferDialog_2;
+	public static String TransferDialog_3;
+	public static String VoicemailAction_0;
+	static {
+		// initialize resource bundle
+		NLS.initializeMessages(BUNDLE_NAME, Messages.class);
+	}
+
+	private Messages() {
+	}
+}

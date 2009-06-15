@@ -1,0 +1,39 @@
+Index: src/main/org/testng/remote/RemoteTestNG.java
+===================================================================
+--- src/main/org/testng/remote/RemoteTestNG.java	(revision 621)
++++ src/main/org/testng/remote/RemoteTestNG.java	(working copy)
+@@ -85,7 +85,6 @@
+     }
+     finally {
+       msh.shutDown();
+-      System.exit(0);
+     }
+   }
+ 
+Index: build.properties
+===================================================================
+--- build.properties	(revision 621)
++++ build.properties	(working copy)
+@@ -22,7 +22,7 @@
+ # Names of distributions
+ #
+ testng.basename=testng
+-testng.version=5.7.1beta
++testng.version=5.8
+ jdk14.testng.jar=${testng.basename}-${testng.version}-jdk14.jar
+ jdk15.testng.jar=${testng.basename}-${testng.version}-jdk15.jar
+ other.jars.dir=other-jars
+Index: .classpath
+===================================================================
+--- .classpath	(revision 621)
++++ .classpath	(working copy)
+@@ -9,8 +9,8 @@
+ 	<classpathentry kind="lib" path="3rdparty/ant-launcher.jar"/>
+ 	<classpathentry kind="lib" path="3rdparty/ant.jar"/>
+ 	<classpathentry kind="lib" path="3rdparty/qdox-1.6.1.jar"/>
+-	<classpathentry kind="var" path="TOOLS15_LIB"/>
+ 	<classpathentry kind="lib" path="3rdparty/backport-util-concurrent-2.2.jar"/>
+ 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
++	<classpathentry kind="lib" path="/usr/lib/jvm/java-6-sun/lib/tools.jar"/>
+ 	<classpathentry kind="output" path="z_build"/>
+ </classpath>

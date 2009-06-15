@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/scalable"
+   sodipodi:docname="phone_hangup.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/16x16/phone_hangup.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.59375"
+     inkscape:cx="10.450794"
+     inkscape:cy="8.467399"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="16px"
+     height="16px"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2160"
+       style="fill:#cf2200;fill-opacity:1;fill-rule:evenodd;stroke:#b81a00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 9.463016,6.7638373 C 7.821518,5.1223386 6.5009656,4.7631076 5.5539472,4.8893766 C 4.6069292,5.0156456 4.4634422,5.8575866 3.4930242,5.6920246 C 2.6557342,5.5491756 0.93754612,4.5015826 0.80914112,3.4205066 C 0.67797812,2.3162086 2.5601322,0.52691062 3.7596882,0.84258362 C 4.9592442,1.1582566 8.8583566,2.4505246 11.265662,4.9611906 C 13.780916,7.3639096 15.073184,11.263021 15.388857,12.462577 C 15.704529,13.662133 13.915232,15.544287 12.810934,15.413124 C 11.729858,15.284719 10.682265,13.566531 10.539416,12.729241 C 10.373854,11.758823 11.215795,11.615336 11.342064,10.668318 C 11.468333,9.7213003 11.104514,8.4053353 9.463016,6.7638373 z "
+       sodipodi:nodetypes="csssscssssc" />
+  </g>
+</svg>

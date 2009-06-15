@@ -1,0 +1,44 @@
+--- pjsip/src/pjsua-lib/pjsua_core.c.orig	2008-09-24 12:10:15.000000000 +0200
++++ pjsip/src/pjsua-lib/pjsua_core.c	2008-10-27 17:19:21.000000000 +0100
+@@ -1666,6 +1666,21 @@
+     return PJ_SUCCESS;
+ }
+ 
++/*
++ * Return the number of configured transports
++ */
++PJ_DEF(unsigned) pjsua_transport_get_count( void )
++{
++    unsigned count=0, i=0;
++    PJSUA_LOCK();
++    for(i=0; i<PJ_ARRAY_SIZE(pjsua_var.tpdata); i++)
++    {
++        if(pjsua_var.tpdata[i].data.ptr)
++            count++;
++    }
++    PJSUA_UNLOCK();
++    return count;
++}
+ 
+ /*
+  * Enumerate all transports currently created in the system.
+--- pjsip/include/pjsua-lib/pjsua.h.orig	2008-10-27 17:20:04.000000000 +0100
++++ pjsip/include/pjsua-lib/pjsua.h	2008-10-27 17:19:21.000000000 +0100
+@@ -1832,6 +1832,17 @@
+ PJ_DECL(pj_status_t) pjsua_transport_register(pjsip_transport *tp,
+ 					      pjsua_transport_id *p_id);
+ 
++/**
++ * Get number of current transports.
++ *
++ * @return              Current number of transports.
++ *
++ * \par Python:
++ * \code
++ * count = py_pjsua.transport_get_count()
++ * \endcode
++ */
++PJ_DECL(unsigned) pjsua_transport_get_count( void );
+ 
+ /**
+  * Enumerate all transports currently created in the system. This function

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: IconStore Plug-in
+Bundle-SymbolicName: org.acoveo.callcenter.iconStore
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: org.acoveo.callcenter.iconstore.IconStore
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui;visibility:=reexport,
+ org.acoveo.tools
+Eclipse-LazyStart: true
+Export-Package: org.acoveo.callcenter.iconstore

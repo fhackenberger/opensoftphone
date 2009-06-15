@@ -1,0 +1,14 @@
+This directory is a part of the tango icon theme and was obtained as follows:
+cd ..
+cvs -d:pserver:anoncvs@anoncvs.freedesktop.org:/cvs/tango login
+cvs -d:pserver:anoncvs@anoncvs.freedesktop.org:/cvs/tango co tango-icon-theme/16x16
+find -iname '*.xcf.bz2' | xargs rm
+find -iname '*.svg' | xargs rm
+
+The following icons are self-made:
+xxx/emotes/face-call-agent
+
+The following icons are from http://lists.freedesktop.org/archives/tango-artists/2007-August/001500.html
+xxx/actions/sync-synchronizing
+
+Some icons where obtained from http://webcvs.freedesktop.org/tango/tango-icon-theme/scalable

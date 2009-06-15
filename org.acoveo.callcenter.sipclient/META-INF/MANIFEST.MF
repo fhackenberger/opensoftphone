@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Sipclient Plug-in
+Bundle-SymbolicName: org.acoveo.callcenter.sipclient;singleton:=true
+Bundle-Version: 1.0.1.qualifier
+Bundle-Activator: org.acoveo.callcenter.sipclient.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui,
+ org.acoveo.callcenter.iconStore,
+ org.eclipse.ui.forms,
+ org.apache.log4j,
+ org.pjsip.pjsua,
+ org.acoveo.tools;visibility:=reexport,
+ org.acoveo.callcenter.nls;bundle-version="1.0.0";visibility:=reexport,
+ org.joda.time;bundle-version="1.5.2",
+ org.acoveo.callcenter.guiLibrary;bundle-version="1.0.0"
+Eclipse-LazyStart: true
+Export-Package: org.acoveo.callcenter.sipclient,
+ org.acoveo.callcenter.sipclient.actions,
+ org.acoveo.callcenter.sipclient.preferences,
+ org.acoveo.callcenter.sipclient.view
