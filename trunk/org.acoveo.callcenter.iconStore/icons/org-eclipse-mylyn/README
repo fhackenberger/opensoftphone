@@ -1,0 +1,8 @@
+This directory is a part of the tango icon theme and was obtained as follows:
+cd ..
+cvs -d":pserver:anonymous@dev.eclipse.org:/cvsroot/tools" co org.eclipse.mylyn/org.eclipse.mylyn.tasks.ui/icons/eview16
+
+find org.eclipse.mylyn -iname 'CVS' | xargs rm -R
+mv org.eclipse.mylyn/org.eclipse.mylyn.tasks.ui org.eclipse.mylyn/org-eclipse-mylyn-tasks-ui
+mv org.eclipse.mylyn org-eclipse-mylyn
+

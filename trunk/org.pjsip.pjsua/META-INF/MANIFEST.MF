@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Pjsua Plug-in
+Bundle-SymbolicName: org.pjsip.pjsua;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Eclipse-LazyStart: true
+Bundle-Activator: org.pjsip.pjsua.util.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui,
+ org.apache.log4j
+Export-Package: org.pjsip.pjsua,
+ org.pjsip.pjsua.util

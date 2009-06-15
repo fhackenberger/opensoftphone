@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GuiLibrary Plug-in
+Bundle-SymbolicName: org.acoveo.callcenter.guiLibrary;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.apache.log4j,
+ org.eclipse.update.core,
+ org.acoveo.tools;visibility:=reexport,
+ org.acoveo.callcenter.nls;bundle-version="1.0.0"
+Export-Package: org.acoveo.callcenter.guiLibrary
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: org.acoveo.callcenter.guiLibrary.Activator

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tools Plug-in
+Bundle-SymbolicName: org.acoveo.tools
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: org.acoveo.tools.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ org.testng,
+ org.apache.commons.lang;bundle-version="2.3.0";visibility:=reexport,
+ org.acoveo.callcenter.nls;bundle-version="1.0.0";visibility:=reexport
+Export-Package: org.acoveo.tools

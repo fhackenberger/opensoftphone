@@ -1,0 +1,27 @@
+    The pjsua wrapper is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+This project implements a Java Native Interface wrapper for the pjsua (pjsip) library.
+It exposes the pjsua (sip user interface) API to Java programs and is built using swig
+(Simplified Wrapper and Interface Generator, swig.org). The wrapper is mostly complete,
+with a few exceptions. One problem so far is that passing void* pointer up to Java is
+a bit difficult with swig. Therefore a few callback functions do not expose all the
+available data. The exposed API is sufficient to build a working phone, though.
+
+This package contains prebuilt binaries for the wrapper. You simply have to import the
+directory as a project into eclipse and can use it as either a plugin based project or
+a Java project.
+
+If you want to compile the wrapper yourself, you need a Linux installation and you have
+to install the pjsip library on it. Please see the Makefile for detailed instructions
+about how to build the Windows and Linux wrappers.

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/scalable"
+   sodipodi:docname="phone_ringing.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/16x16/phone_ringing.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.59375"
+     inkscape:cx="10.450794"
+     inkscape:cy="8.467399"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="16px"
+     height="16px"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path6095"
+       style="fill:none;fill-rule:evenodd;stroke:#009400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 7.5,12.354967 L 7.5,8.7523178 L 6.3980134,9.8543048 M 8.4999999,12.354967 L 8.4999999,8.7523178 L 9.6019867,9.8543048"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path2160"
+       style="fill:#00a900;fill-opacity:1;fill-rule:evenodd;stroke:#009400;stroke-width:0.81864268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.0000002,5.3707259 C 6.0995792,5.3707255 5.1272065,5.9272035 4.6521012,6.548495 C 4.176996,7.1697864 4.5813085,7.7402188 3.9237263,8.206124 C 3.3563554,8.608113 1.7553337,8.996299 1.0552042,8.444829 C 0.34003565,7.8815124 0.39378702,5.756227 1.2709043,5.2445756 C 2.1480215,4.7329241 5.1531445,3.2239059 7.9999998,3.283738 C 10.846856,3.2185951 13.851978,4.7276128 14.729096,5.2392643 C 15.606212,5.7509162 15.659965,7.8762011 14.944796,8.439518 C 14.244666,8.990988 12.643644,8.602802 12.076273,8.200813 C 11.418691,7.7349075 11.823004,7.1644749 11.347899,6.5431837 C 10.872794,5.9218926 9.900421,5.3707259 8.0000002,5.3707259 z "
+       sodipodi:nodetypes="csssscssssc" />
+  </g>
+</svg>

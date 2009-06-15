@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/scalable"
+   sodipodi:docname="pickup_group.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/acoveo/16x16/pickup_group.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3209">
+      <stop
+         style="stop-color:#07ca0f;stop-opacity:1;"
+         offset="0"
+         id="stop3211" />
+      <stop
+         style="stop-color:#83ff7a;stop-opacity:1;"
+         offset="1"
+         id="stop3213" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective9" />
+    <inkscape:perspective
+       id="perspective2429"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3209"
+       id="linearGradient3215"
+       x1="21.454967"
+       y1="7.2476821"
+       x2="23.311258"
+       y2="5.0013242"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3181971,0,0,1.3181971,-38.313021,-5.2560861)" />
+    <inkscape:perspective
+       id="perspective3240"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.59375"
+     inkscape:cx="14.516556"
+     inkscape:cy="13.26117"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="16px"
+     height="16px"
+     inkscape:window-width="1390"
+     inkscape:window-height="971"
+     inkscape:window-x="1400"
+     inkscape:window-y="25"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="23.311258,13.690066"
+       id="guide2437" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#7f7f7f;stroke-width:0.6538462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3223"
+       sodipodi:cx="10.172186"
+       sodipodi:cy="11.168212"
+       sodipodi:rx="5.2980132"
+       sodipodi:ry="5.2980132"
+       d="M 9.9280225,16.460596 A 5.2980132,5.2980132 0 1 1 15.319285,9.9126971"
+       transform="matrix(1.2483986,0,0,1.2483986,-4.465759,-5.5821879)"
+       sodipodi:start="1.6168985"
+       sodipodi:end="6.0439308"
+       sodipodi:open="true" />
+    <path
+       style="fill:#00a702;fill-opacity:1;fill-rule:evenodd;stroke:#1a9c00;stroke-width:0.65909851;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.8491841,9.352432 C 3.8491841,9.352432 4.4078901,4.6034302 8.374702,4.6034302 C 12.341517,4.6034302 12.564998,10.413973 12.564998,10.413973 L 14.799823,10.413973 L 10.553657,15.274716 L 6.0281371,10.413973 L 8.430573,10.413973 C 8.430573,10.413973 8.11163,7.2852192 6.4751021,7.2852192 C 4.7829871,7.2852192 3.9050541,9.408302 3.8491841,9.352432 z"
+       id="path3248"
+       sodipodi:nodetypes="csccccczc" />
+    <image
+       xlink:href="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/gnome-icon-theme/stock/generic/stock_landline-phone.png"
+       sodipodi:absref="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/gnome-icon-theme/stock/generic/stock_landline-phone.png"
+       width="5.7960267"
+       height="5.7960267"
+       id="use3252"
+       x="10.304635"
+       y="-0.31258243" />
+    <image
+       xlink:href="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/gnome-icon-theme/stock/generic/stock_landline-phone.png"
+       sodipodi:absref="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/gnome-icon-theme/stock/generic/stock_landline-phone.png"
+       width="5.7960267"
+       height="5.7960267"
+       id="use3256"
+       x="-0.015893854"
+       y="-0.29139075" />
+    <image
+       xlink:href="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/gnome-icon-theme/stock/generic/stock_landline-phone.png"
+       sodipodi:absref="/home/fhackenberger/workspace/org.acoveo.callcenter.iconStore/icons/gnome-icon-theme/stock/generic/stock_landline-phone.png"
+       width="5.7960267"
+       height="5.7960267"
+       id="use3258"
+       x="0.026490444"
+       y="10.940397" />
+  </g>
+</svg>
